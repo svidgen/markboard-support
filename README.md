@@ -4,7 +4,7 @@ Oh hi.
 
 First of all, *thanks for trying [**markboard**](https://www.markboard.dev)!*
 
-I hope you're finding it helpful. But, if you need help, have ideas, or want to tell us anything about **markboard**:
+I hope you're finding it helpful. But, if you need help, have ideas, or want to tell me anything about **markboard**:
 
 ### [Submit an issue.](issues)
 
